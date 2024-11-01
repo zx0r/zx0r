@@ -18,9 +18,9 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 <!-- Profile Introduction -->
+```yaml
 <p align="center">
   <samp> 
-  ```yaml
     <span style="color:#FF00FF">█▀█ █▀▀ █▀█ █▀▀ █ █░░ █▀▀</span>
     <br><br>
     [⚡] NETRUNNER STATUS: ACTIVE
@@ -30,10 +30,9 @@
     [📡] MISSION: HACKING THE MATRIX & COMPILING KERNELS
     <br>
     [💉] RUNTIME: EMERGE --ONESHOT REALITY
-  ```
   </samp>
 </p>
-
+```
 <!-- Tech Stack Section -->
 <h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> NEURAL ARSENAL <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h3>
 
