@@ -19,7 +19,7 @@
 
 <!-- Profile Introduction -->
 <p align="center">
-  ```yaml 
+  <samp>
     <span style="color:#FF00FF">█▀█ █▀▀ █▀█ █▀▀ █ █░░ █▀▀</span>
     <br><br>
     [⚡] NETRUNNER STATUS: ACTIVE
@@ -29,7 +29,7 @@
     [📡] MISSION: HACKING THE MATRIX & COMPILING KERNELS
     <br>
     [💉] RUNTIME: EMERGE --ONESHOT REALITY
-  ```
+  </samp>
 </p>
 ```
 <!-- Tech Stack Section -->
