@@ -21,14 +21,14 @@
 <p align="center">
   <samp>
     <span style="color:#FF00FF">█▀█ █▀▀ █▀█ █▀▀ █ █░░ █▀▀</span>
-    <br><br>
-    [⚡] NETRUNNER STATUS: ACTIVE
     <br>
     [🧠] CLASS: AI RESEARCHER | GENTOO RIPPER | OPENWRT ARCHITECT
     <br>
     [📡] MISSION: HACKING THE MATRIX & COMPILING KERNELS
     <br>
     [💉] RUNTIME: EMERGE --ONESHOT REALITY
+    <br>
+     [⚡] NETRUNNER STATUS: ACTIVE
   </samp>
 </p>
 ```
