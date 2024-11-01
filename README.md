@@ -18,9 +18,8 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 <!-- Profile Introduction -->
-```yaml
 <p align="center">
-  <samp> 
+  ```yaml 
     <span style="color:#FF00FF">█▀█ █▀▀ █▀█ █▀▀ █ █░░ █▀▀</span>
     <br><br>
     [⚡] NETRUNNER STATUS: ACTIVE
@@ -30,7 +29,7 @@
     [📡] MISSION: HACKING THE MATRIX & COMPILING KERNELS
     <br>
     [💉] RUNTIME: EMERGE --ONESHOT REALITY
-  </samp>
+  ```
 </p>
 ```
 <!-- Tech Stack Section -->
