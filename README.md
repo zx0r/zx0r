@@ -48,8 +48,6 @@
 </div>
 
 ## 🎧
-
-[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/v3u6o6qjexr1zv9w39l6c4qq2)
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
 <img align="right" alt="GIF" height="160px" width="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 
