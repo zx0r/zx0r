@@ -12,7 +12,7 @@
 <!-- Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*RMAL8nFhatmbVbVXkDClLA.gif)](https://arjuncvinod.github.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*RMAL8nFhatmbVbVXkDClLA.gif)
 
 <!-- Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
