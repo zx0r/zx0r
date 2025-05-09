@@ -1,21 +1,4 @@
 [![MasterHead](https://www.accuknox.com/wp-content/uploads/platform-hero.gif)](https://zx0r.github.io)
-<!-- Neon Line Separator -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-
-<!-- Profile Introduction -->
-<p align="center">
-  <samp>
-    <span style="color:#FF00FF">█▀█ █▀▀ █▀█ █▀▀ █ █░░ █▀▀</span>
-    <br><br>
-    [🧠] CLASS: AI RESEARCHER | GENTOO RIPPER | OPENWRT ARCHITECT
-    <br>
-    [📡] MISSION: HACKING THE MATRIX & COMPILING KERNELS
-    <br>
-    [💉] RUNTIME: EMERGE --ONESHOT REALITY
-    <br>
-     [⚡] NETRUNNER STATUS: ACTIVE
-  </samp>
-</p>
 
 <!-- Tech Stack Section -->
 <h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> NEURAL ARSENAL <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></h3>
