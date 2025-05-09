@@ -1,17 +1,3 @@
-<!-- Neon Line Separator -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-
-![Welcome](https://github.com/zx0r/zx0r/blob/main/assets/hello-world.gif)
-![Divider](https://github.com/zx0r/zx0r/blob/main/assets/aboutme.gif)
-
-<!-- Header Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=1080&lines=AI+Engineer+%7C+Linux+Enthusiast+%7C+OpenWrt+Developer" alt="Typing SVG" />
-</div>
-
-<!-- Neon Line Separator -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-
 [![MasterHead](https://www.accuknox.com/wp-content/uploads/platform-hero.gif)](https://zx0r.github.io)
 <!-- Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
