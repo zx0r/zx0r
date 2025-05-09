@@ -12,7 +12,7 @@
 <!-- Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://zx0r.github.io)
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*RMAL8nFhatmbVbVXkDClLA.gif)]([https://zx0r.github.io](https://arjuncvinod.github.io))
 
 <!-- Neon Line Separator -->
