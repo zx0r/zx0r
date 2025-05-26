@@ -45,7 +45,7 @@
 <!-- ✨ Gentoo Origin Note -->
 <div align="center" style="margin-top: 10px;">
   <span style="color:#a277ff; font-size:16px; font-weight:500;">
-    🧘 Started my journey in the binary mist of Gentoo Linux — and never looked back.
+    🧘 Started my journey in the binary mist of Gentoo Linux and never looked back.
   </span>
 </div>
 
