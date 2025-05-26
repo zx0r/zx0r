@@ -26,6 +26,13 @@
   <img src="https://img.shields.io/badge/Shell-00FFAA?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=black" />
 </div>
 
+<!-- 💡 Enchanted Skills Block -->
+<h4 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
+  <span style="color:#A277FF; font-weight:bold;">⚙️ Technical Skills</span>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
+</h4>
+
 <!-- 💡 Enchanted Skills Block --> 
 <pre>
 <span style="color:#00ffff;">⊙ Role:    [ Researcher ]
@@ -44,10 +51,6 @@
      🧘 Gentoo Linux wasn’t just a distro - it was my gateway to low-level mastery and high-level thinking
   </span>
 </div>
-
-<h6 align="left">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
-</h6>
 
 <!-- 💠 Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
