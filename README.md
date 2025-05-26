@@ -46,19 +46,6 @@
   </span>
 </div>
 
-<!-- 🧠 Gentoo Logic Wisdom -->
-<div align="center" style="margin-top: 6px;">
-  <span style="font-size: 15px;">
-    <font color="#00ffff">if</font> <font color="#ff00ff">you</font> <font color="#00ff00">know</font> <font color="#ffcc00">distro</font><font color="#ffaa00">;</font> 
-    <font color="#a277ff">then</font> <font color="#00ffff">you</font> <font color="#ff00ff">know</font> <font color="#00ff00">distro</font><font color="#ffaa00">;<font> 
-    <font color="#a277ff">end</font><br>
-    <font color="#00ffff">if</font> <font color="#ff00ff">you</font> <font color="#00ff00">know</font> <font color="#ffcc00">gentoo</font><font color="#ffaa00">;</font> 
-    <font color="#a277ff">then</font> <font color="#00ffff">you</font> <font color="#ff00ff">know</font> <font color="#00ff00">linux</font><font color="#ffaa00">;</font> 
-    <font color="#a277ff">end</font>
-  </span>
-</div>
-<br>
-
 <!-- 💠 Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
@@ -87,6 +74,19 @@
     <font color="#8be9fd">[⚡] NETRUNNER STATUS:</font> <font color="#50fa7b">• ACTIVE</font>
   </samp>
 </p>
+
+<!-- 🧠 Gentoo Logic Wisdom -->
+<div align="center" style="margin-top: 6px;">
+  <span style="font-size: 15px;">
+    <font color="#00ffff">if</font> <font color="#ff00ff">you</font> <font color="#00ff00">know</font> <font color="#ffcc00">distro</font><font color="#ffaa00">;</font> 
+    <font color="#a277ff">then</font> <font color="#00ffff">you</font> <font color="#ff00ff">know</font> <font color="#00ff00">distro</font><font color="#ffaa00">;<font> 
+    <font color="#a277ff">end</font><br>
+    <font color="#00ffff">if</font> <font color="#ff00ff">you</font> <font color="#00ff00">know</font> <font color="#ffcc00">gentoo</font><font color="#ffaa00">;</font> 
+    <font color="#a277ff">then</font> <font color="#00ffff">you</font> <font color="#ff00ff">know</font> <font color="#00ff00">linux</font><font color="#ffaa00">;</font> 
+    <font color="#a277ff">end</font>
+  </span>
+</div>
+<br>
 
 <!-- 🌀 Symmetric Divider -->
 <p align="center">
