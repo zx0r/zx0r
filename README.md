@@ -7,26 +7,6 @@
 <img src="https://github.com/zx0r/zx0r/blob/main/assets/hello-world.gif" alt="Hello World Animation" />
 <img src="https://github.com/zx0r/zx0r/blob/main/assets/aboutme.gif" alt="About Me Divider" />
 
-<!-- ✨ Gentoo Origin Note -->
-<div align="center" style="margin-top: 10px;">
-  <span style="color:#a277ff; font-size:18px; font-weight:500;">
-    🧘 Started my journey in the binary mist of Gentoo Linux — and never looked back.
-  </span>
-</div>
-
-<!-- 🧠 Gentoo Logic Wisdom -->
-<div align="center" style="margin-top: 6px;">
-  <span style="font-size: 15px;">
-    <font color="#00ffff">if</font> <font color="#ff00ff">you</font> <font color="#00ff00">know</font> <font color="#ffcc00">distro</font><font color="#ffaa00">;</font> 
-    <font color="#a277ff">then</font> <font color="#00ffff">you</font> <font color="#ff00ff">know</font> <font color="#00ff00">distro</font><font color="#ffaa00">;<font> 
-    <font color="#a277ff">end</font><br>
-    <font color="#00ffff">if</font> <font color="#ff00ff">you</font> <font color="#00ff00">know</font> <font color="#ffcc00">gentoo</font><font color="#ffaa00">;</font> 
-    <font color="#a277ff">then</font> <font color="#00ffff">you</font> <font color="#ff00ff">know</font> <font color="#00ff00">linux</font><font color="#ffaa00">;</font> 
-    <font color="#a277ff">end</font>
-  </span>
-</div>
-<br>
-
 <!-- ⚙️ Tech Stack Badges -->
 <div align="center">
   <img src="https://img.shields.io/badge/LLM-Prompting-blueviolet?style=for-the-badge&logo=openai&logoColor=white&labelColor=black" />
@@ -58,6 +38,26 @@
 <span style="color:#ff77ff;">⊛ Mission:</span> [ Automate workflows, Embed LLMs in scalable systems ]
 <span style="color:#ff77ff;">Ψ Output:</span>  [ Secure, Intelligent pipelines for real-world AI ]
 </pre>
+
+<!-- ✨ Gentoo Origin Note -->
+<div align="center" style="margin-top: 10px;">
+  <span style="color:#a277ff; font-size:18px; font-weight:500;">
+    🧘 Started my journey in the binary mist of Gentoo Linux — and never looked back.
+  </span>
+</div>
+
+<!-- 🧠 Gentoo Logic Wisdom -->
+<div align="center" style="margin-top: 6px;">
+  <span style="font-size: 15px;">
+    <font color="#00ffff">if</font> <font color="#ff00ff">you</font> <font color="#00ff00">know</font> <font color="#ffcc00">distro</font><font color="#ffaa00">;</font> 
+    <font color="#a277ff">then</font> <font color="#00ffff">you</font> <font color="#ff00ff">know</font> <font color="#00ff00">distro</font><font color="#ffaa00">;<font> 
+    <font color="#a277ff">end</font><br>
+    <font color="#00ffff">if</font> <font color="#ff00ff">you</font> <font color="#00ff00">know</font> <font color="#ffcc00">gentoo</font><font color="#ffaa00">;</font> 
+    <font color="#a277ff">then</font> <font color="#00ffff">you</font> <font color="#ff00ff">know</font> <font color="#00ff00">linux</font><font color="#ffaa00">;</font> 
+    <font color="#a277ff">end</font>
+  </span>
+</div>
+<br>
 
 <!-- 💠 Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
