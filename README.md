@@ -12,15 +12,15 @@
 
 <!-- ⚙️ Tech Stack Badges -->
 <div align="center">
+  <img src="https://img.shields.io/badge/AI-FF1493?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/LLM-blueviolet?style=for-the-badge&logo=openai&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/AI_CORE-FF1493?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FF00FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Gentoo-00FF00?style=for-the-badge&logo=gentoo&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FF00FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/OpenWRT-FF00FF?style=for-the-badge&logo=openwrt&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Shell-00FFAA?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/SQL-00ccff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/PYTHON-Pandas-00FFFF?style=for-the-badge&logo=python&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-f37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/SQL-00ccff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Shell-00FFAA?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=black" />
 </div>
 
 <!-- 💡 Enchanted Skills Block -->
