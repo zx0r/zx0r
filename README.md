@@ -27,12 +27,11 @@
 </div>
 
 <!-- 💡 Enchanted Skills Block -->
-<h4 align="center">
+<h6 align="left">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
-  <span style="color:#A277FF; font-weight:bold;">⚙️ Technical Skills</span>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
-</h4>
-
+</h6>
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
+ 
 <!-- 🧠 Summary -->
 <pre>
 <span style="color:#00ffff;">⊙ Role:    [ Researcher ]
