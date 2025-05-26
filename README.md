@@ -9,7 +9,7 @@
 
 <!-- ✨ Gentoo Origin Note -->
 <div align="center" style="margin-top: 10px;">
-  <span style="color:#a277ff; font-size:18px; font-weight:500;">
+  <span style="color:#ff6347; font-size:18px; font-weight:500;">
     🧘 Started my journey in the binary mist of Gentoo Linux — and never looked back.
   </span>
 </div>
@@ -17,12 +17,12 @@
 <!-- 🧠 Gentoo Logic Wisdom -->
 <div align="center" style="margin-top: 6px;">
   <span style="font-size: 15px;">
-    <font color="#00ffff">if</font> <font color="#ff00ff">you</font> <font color="#00ff00">know</font> <font color="#ffcc00">distro</font><font color="#ffaa00">;</font> 
-    <font color="#a277ff">then</font> <font color="#00ffff">you</font> <font color="#ff00ff">know</font> <font color="#00ff00">distro</font><font color="#ffaa00">;<font> 
-    <font color="#a277ff">end</font><br>
-    <font color="#00ffff">if</font> <font color="#ff00ff">you</font> <font color="#00ff00">know</font> <font color="#ffcc00">gentoo</font><font color="#ffaa00">;</font> 
-    <font color="#a277ff">then</font> <font color="#00ffff">you</font> <font color="#ff00ff">know</font> <font color="#00ff00">linux</font><font color="#ffaa00">;</font> 
-    <font color="#a277ff">end</font>
+    <font color="#ff4500">if</font> <font color="#8a2be2">you</font> <font color="#32cd32">know</font> <font color="#ff8c00">distro</font><font color="#f0e68c">;</font> 
+    <font color="#8a2be2">then</font> <font color="#ff4500">you</font> <font color="#8a2be2">know</font> <font color="#32cd32">distro</font><font color="#f0e68c">;</font> 
+    <font color="#8a2be2">end</font><br>
+    <font color="#ff4500">if</font> <font color="#8a2be2">you</font> <font color="#32cd32">know</font> <font color="#ff8c00">gentoo</font><font color="#f0e68c">;</font> 
+    <font color="#8a2be2">then</font> <font color="#ff4500">you</font> <font color="#8a2be2">know</font> <font color="#32cd32">linux</font><font color="#f0e68c">;</font> 
+    <font color="#8a2be2">end</font>
   </span>
 </div>
 <br>
@@ -43,20 +43,20 @@
 <!-- 💡 Enchanted Skills Block -->
 <h3 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
-  <span style="color:#A277FF; font-weight:bold;">⚙️ Technical Skills</span>
+  <span style="color:#ff6347; font-weight:bold;">⚙️ Technical Skills</span>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
 </h3>
 
 <!-- 🧠 Summary -->
 <pre>
-<span style="color:#00ffff;">⊙ Role:    [ LLM Integration Specialist, Data Scraping ]
-<span style="color:#ffcc00;">⊙ Spec:</span>    [ few-shot, CoT, RAG, agent prompting ]
-<span style="color:#ff00ff;">⊙ Core:</span>    [ Shell, Python, SQL ]
-<span style="color:#a277ff;">Ψ OS:</span>      [ macOS, Linux, OpenWRT, Windows ]
-<span style="color:#ff77ff;">⊛ Tools:</span>   [ Pandas, Docker, Git, APIs, LangChain, Jupyter ]
-<span style="color:#ffaa00;">◉ Domains:</span> [ Prompt Engineering, LLM Automation, Data Scraping, CLI Tooling ]
-<span style="color:#ff77ff;">⊛ Mission:</span> [ Automate workflows, Embed LLMs in scalable systems ]
-<span style="color:#ff77ff;">Ψ Output:</span>  [ Secure, Intelligent pipelines for real-world AI ]
+<span style="color:#ff4500;">⊙ Role:    [ LLM Integration Specialist, Data Scraping ]
+<span style="color:#32cd32;">⊙ Spec:</span>    [ few-shot, CoT, RAG, agent prompting ]
+<span style="color:#8a2be2;">⊙ Core:</span>    [ Shell, Python, SQL ]
+<span style="color:#ff6347;">Ψ OS:</span>      [ macOS, Linux, OpenWRT, Windows ]
+<span style="color:#ff8c00;">⊛ Tools:</span>   [ Pandas, Docker, Git, APIs, LangChain, Jupyter ]
+<span style="color:#f0e68c;">◉ Domains:</span> [ Prompt Engineering, LLM Automation, Data Scraping, CLI Tooling ]
+<span style="color:#ff8c00;">⊛ Mission:</span> [ Automate workflows, Embed LLMs in scalable systems ]
+<span style="color:#ff8c00;">Ψ Output:</span>  [ Secure, Intelligent pipelines for real-world AI ]
 </pre>
 
 <a href="https://arjuncvinod.github.io">
@@ -76,12 +76,12 @@
 <!-- 🧠 Profile Glyphblock -->
 <p align="center">
   <samp>
-    <font color="#00ffff">█▀█</font> <font color="#ff00ff">█▀▀</font> <font color="#00ff00">█▀█</font> <font color="#ffcc00">█▀▀</font> <font color="#ffaa00">█</font> <font color="#a277ff">█░░</font> <font color="#00ffff">█▀▀</font>
+    <font color="#ff4500">█▀█</font> <font color="#8a2be2">█▀▀</font> <font color="#32cd32">█▀█</font> <font color="#ff8c00">█▀▀</font> <font color="#f0e68c">█</font> <font color="#ff6347">█░░</font> <font color="#ff4500">█▀▀</font>
     <br><br>
-    <font color="#a6e22e">[🧠] CLASS:</font> <font color="#ff79c6">AI RESEARCHER</font> | <font color="#8be9fd">GENTOO RIPPER</font> | <font color="#bd93f9">NEURAL INFRA ARCHITECT</font><br>
-    <font color="#f1fa8c">[📡] MISSION:</font> <font color="#50fa7b">HACKING THE MATRIX & COMPILING KERNELS</font><br>
-    <font color="#ff5555">[💉] RUNTIME:</font> <font color="#ff79c6">EMERGE --ONESHOT --NEURAL REALITY</font><br>
-    <font color="#8be9fd">[⚡] NETRUNNER STATUS:</font> <font color="#50fa7b">• ACTIVE</font>
+    <font color="#a6e22e">[🧠] CLASS:</font> <font color="#ff6347">AI RESEARCHER</font> | <font color="#8a2be2">GENTOO RIPPER</font> | <font color="#ff4500">NEURAL INFRA ARCHITECT</font><br>
+    <font color="#ff8c00">[📡] MISSION:</font> <font color="#32cd32">HACKING THE MATRIX & COMPILING KERNELS</font><br>
+    <font color="#ff6347">[💉] RUNTIME:</font> <font color="#ff4500">EMERGE --ONESHOT --NEURAL REALITY</font><br>
+    <font color="#8a2be2">[⚡] NETRUNNER STATUS:</font> <font color="#32cd32">• ACTIVE</font>
   </samp>
 </p>
 
@@ -124,3 +124,4 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 <!-- 🧙‍♂️ Enchanted Manuscript Ends -->
+
