@@ -3,6 +3,13 @@
 <!-- 💠 Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
+<!-- ✨ Welcome Animations -->
+<img src="https://github.com/zx0r/zx0r/blob/main/assets/hello-world.gif" alt="Hello World Animation" />
+<img src="https://github.com/zx0r/zx0r/blob/main/assets/aboutme.gif" alt="About Me Divider" />
+<a href="https://arjuncvinod.github.io">
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="Terminal Matrix Banner">
+</a>
+
 <!-- ✨ Gentoo Origin Note -->
 <div align="center" style="margin-top: 10px;">
   <span style="color:#a277ff; font-size:18px; font-weight:500;">
@@ -57,13 +64,6 @@
 
 <!-- 💠 Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-
-<!-- ✨ Welcome Animations -->
-<img src="https://github.com/zx0r/zx0r/blob/main/assets/hello-world.gif" alt="Hello World Animation" />
-<img src="https://github.com/zx0r/zx0r/blob/main/assets/aboutme.gif" alt="About Me Divider" />
-<a href="https://arjuncvinod.github.io">
-  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="Terminal Matrix Banner">
-</a>
 
 <!-- 🌀 Glyph Divider -->
 <p align="center">
