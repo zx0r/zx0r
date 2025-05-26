@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 <!-- ✨ Welcome Animations -->
-<img src="https://github.com/zx0r/zx0r/blob/main/assets/hello-world.gif" alt="Hello World Animation" />
+<!-- <img src="https://github.com/zx0r/zx0r/blob/main/assets/hello-world.gif" alt="Hello World Animation" /> -->
 <img src="https://github.com/zx0r/zx0r/blob/main/assets/aboutme.gif" alt="About Me Divider" />
 
 <!-- 📡 Banner -->
