@@ -45,7 +45,7 @@
 <!-- ✨ Gentoo Origin Note -->
 <div align="center" style="margin-top: 10px;">
   <span style="color:#a277ff; font-size:16px; font-weight:500;">
-     🧘 Started my journey in the binary mist of Gentoo Linux and never looked back
+     🧘 Rooted in the precision and control of Gentoo Linux, I cultivated a deep understanding of systems architecture and performance tuning. Today, I apply that same rigor to designing AI-driven solutions, integrating large language models, and automating complex workflows with reliability and scale in mind.
   </span>
 </div>
 
