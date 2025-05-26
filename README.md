@@ -6,9 +6,6 @@
 <!-- ✨ Welcome Animations -->
 <img src="https://github.com/zx0r/zx0r/blob/main/assets/hello-world.gif" alt="Hello World Animation" />
 <img src="https://github.com/zx0r/zx0r/blob/main/assets/aboutme.gif" alt="About Me Divider" />
-<a href="https://arjuncvinod.github.io">
-  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="Terminal Matrix Banner">
-</a>
 
 <!-- ✨ Gentoo Origin Note -->
 <div align="center" style="margin-top: 10px;">
@@ -61,6 +58,10 @@
 <span style="color:#ff77ff;">⊛ Mission:</span> [ Automate workflows, Embed LLMs in scalable systems ]
 <span style="color:#ff77ff;">Ψ Output:</span>  [ Secure, Intelligent pipelines for real-world AI ]
 </pre>
+
+<a href="https://arjuncvinod.github.io">
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="Terminal Matrix Banner">
+</a>
 
 <!-- 💠 Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
@@ -123,51 +124,3 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 <!-- 🧙‍♂️ Enchanted Manuscript Ends -->
-
-
-
-
-
-<div align="center">
-  <!-- Core Systems -->
-  <img src="https://img.shields.io/badge/-AI_CORE-FF1493?style=for-the-badge&logo=tensorflow&logoColor=neon&labelColor=black" />
-  <img src="https://img.shields.io/badge/LINUX-FF00FF?style=for-the-badge&logo=linux&logoColor=neon&labelColor=black" />
-  <img src="https://img.shields.io/badge/-GENTOO-00FF00?style=for-the-badge&logo=gentoo&logoColor=neon&labelColor=black" />
-  <img src="https://img.shields.io/badge/-OPENWRT-FF00FF?style=for-the-badge&logo=openwrt&logoColor=neon&labelColor=black" />
-  <img src="https://img.shields.io/badge/SHELL-00FF00?style=for-the-badge&logo=gnu-bash&logoColor=neon&labelColor=black" />
-  <img src="https://img.shields.io/badge/PYTHON-00FFFF?style=for-the-badge&logo=python&logoColor=neon&labelColor=black" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-FF1493?style=for-the-badge&logo=javascript&logoColor=neon&labelColor=black" />
-</div>
-
-<!-- Neon Separator -->
-<p align="center">
-  ════ ⋆★⋆ ════
-</p>
-
-<img src="https://github.com/zx0r/zx0r/blob/main/assets/banner.png" >
-
-<!-- GitHub Stats -->
-
-![Divider](https://github.com/zx0r/zx0r/blob/main/assets/stats.gif)
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zx0r&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zx0r&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
-
-<!-- Visit Counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/zx0r/count.svg" />
-</div>
-
-<!-- Neon Line Separator -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-
-<!-- Snake Animation -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zx0r/zx0r/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zx0r/zx0r/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zx0r/zx0r/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
