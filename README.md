@@ -34,7 +34,7 @@
 </h4>
 
 <!-- 💡 Enchanted Skills Block -->
-<img src="https://raw.githubusercontent.com/zx0r/zx0r/main/.github/assets/Screenshot-stack.png" alt="Screenshot Stack" style="width:100%; max-width:100%;" />
+<img src="https://raw.githubusercontent.com/zx0r/zx0r/main/.github/assets/Screenshot-1.png" alt="Screenshot Stack" style="width:100%; max-width:100%;" />
 
 <pre>
 <span style="color:#00ffff;">⊙ Role:    [ Researcher ]
