@@ -59,34 +59,6 @@
 <!-- 💠 Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
-<!-- 🧠 Profile Glyphblock -->
-<p align="center">
-  <samp>
-    <font color="#00ffff">█▀█</font> <font color="#ff00ff">█▀▀</font> <font color="#00ff00">█▀█</font> <font color="#ffcc00">█▀▀</font> <font color="#ffaa00">█</font> <font color="#a277ff">█░░</font> <font color="#00ffff">█▀▀</font>
-    <br><br>
-    <font color="#a6e22e">[🧠] CLASS:</font> <font color="#ff79c6">AI RESEARCHER</font> | <font color="#8be9fd">GENTOO RIPPER</font> | <font color="#bd93f9">NEURAL INFRA ARCHITECT</font><br>
-    <font color="#f1fa8c">[📡] MISSION:</font> <font color="#50fa7b">HACKING THE MATRIX & COMPILING KERNELS</font><br>
-    <font color="#ff5555">[💉] RUNTIME:</font> <font color="#ff79c6">EMERGE --ONESHOT --NEURAL REALITY</font><br>
-    <font color="#8be9fd">[⚡] NETRUNNER STATUS:</font> <font color="#50fa7b">• ACTIVE</font>
-  </samp>
-</p>
-
-<!-- 🧠 Gentoo Logic Wisdom -->
-<div align="center" style="margin-top: 6px;">
-  <span style="font-size: 12px;">
-    <font color="#00ffff">if</font> <font color="#ff00ff">you</font> <font color="#00ff00">know</font> <font color="#ffcc00">distro</font><font color="#ffaa00">;</font> 
-    <font color="#a277ff">then</font> <font color="#00ffff">you</font> <font color="#ff00ff">know</font> <font color="#00ff00">distro</font><font color="#ffaa00">;<font> 
-    <font color="#a277ff">end</font><br>
-    <font color="#00ffff">if</font> <font color="#ff00ff">you</font> <font color="#00ff00">know</font> <font color="#ffcc00">gentoo</font><font color="#ffaa00">;</font> 
-    <font color="#a277ff">then</font> <font color="#00ffff">you</font> <font color="#ff00ff">know</font> <font color="#00ff00">linux</font><font color="#ffaa00">;</font> 
-    <font color="#a277ff">end</font>
-  </span>
-</div>
-<br>
-
-<!-- 💠 Neon Line Separator -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-
 <!-- 📊 GitHub Stats -->
 <img src="https://github.com/zx0r/zx0r/blob/main/assets/stats.gif" alt="Divider" />
 
@@ -108,6 +80,22 @@
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/zx0r/zx0r/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<!-- 💠 Neon Line Separator -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+
+<!-- 🧠 Gentoo Logic Wisdom -->
+<div align="center" style="margin-top: 6px;">
+  <span style="font-size: 12px;">
+    <font color="#00ffff">if</font> <font color="#ff00ff">you</font> <font color="#00ff00">know</font> <font color="#ffcc00">distro</font><font color="#ffaa00">;</font> 
+    <font color="#a277ff">then</font> <font color="#00ffff">you</font> <font color="#ff00ff">know</font> <font color="#00ff00">distro</font><font color="#ffaa00">;<font> 
+    <font color="#a277ff">end</font><br>
+    <font color="#00ffff">if</font> <font color="#ff00ff">you</font> <font color="#00ff00">know</font> <font color="#ffcc00">gentoo</font><font color="#ffaa00">;</font> 
+    <font color="#a277ff">then</font> <font color="#00ffff">you</font> <font color="#ff00ff">know</font> <font color="#00ff00">linux</font><font color="#ffaa00">;</font> 
+    <font color="#a277ff">end</font>
+  </span>
+</div>
+<br>
 
 <!-- 💠 Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
