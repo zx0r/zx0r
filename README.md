@@ -45,7 +45,7 @@
 <!-- ✨ Gentoo Origin Note -->
 <div align="center" style="margin-top: 10px;">
   <span style="color:#a277ff; font-size:16px; font-weight:500;">
-     🧘 Gentoo Linux wasn’t just a distro - it was my gateway to low-level mastery and high-level thinking. 
+     🧘 Gentoo Linux wasn’t just a distro - it was my gateway to low-level mastery and high-level thinking
   </span>
 </div>
 
