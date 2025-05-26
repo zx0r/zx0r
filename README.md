@@ -8,7 +8,7 @@
 <img src="https://github.com/zx0r/zx0r/blob/main/assets/aboutme.gif" alt="About Me Divider" />
 
 <!-- 📡 Banner -->
-<img src="https://github.com/zx0r/zx0r/blob/main/assets/banner.png" alt="Cyber Banner" />
+<!-- <img src="https://github.com/zx0r/zx0r/blob/main/assets/banner.png" alt="Cyber Banner" /> -->
 
 <!-- ⚙️ Tech Stack Badges -->
 <div align="center">
