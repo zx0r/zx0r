@@ -32,12 +32,12 @@
 
 <!-- 🧠 Summary -->
 <pre>
-<span style="color:#00ffff;">⊙ Role:    [ LLM Integration Specialist, Data Scraping ]
+<span style="color:#00ffff;">⊙ Role:    [ Researcher ]
 <span style="color:#ffcc00;">⊙ Spec:</span>    [ few-shot, CoT, RAG, agent prompting ]
 <span style="color:#ff00ff;">⊙ Core:</span>    [ Shell, Python, SQL ]
 <span style="color:#a277ff;">Ψ OS:</span>      [ macOS, Linux, OpenWRT, Windows ]
 <span style="color:#ff77ff;">⊛ Tools:</span>   [ Pandas, Docker, Git, APIs, LangChain, Jupyter ]
-<span style="color:#ffaa00;">◉ Domains:</span> [ Prompt Engineering, LLM Automation, Data Scraping, CLI Tooling ]
+<span style="color:#ffaa00;">◉ Domains:</span> [ Prompt Engineering, LLM Integration, Data Scraping, CLI Tooling ]
 <span style="color:#ff77ff;">⊛ Mission:</span> [ Automate workflows, Embed LLMs in scalable systems ]
 <span style="color:#ff77ff;">Ψ Output:</span>  [ Secure, Intelligent pipelines for real-world AI ]
 </pre>
