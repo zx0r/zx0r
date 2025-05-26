@@ -1,8 +1,10 @@
 <!-- 🧙‍♂️ Enchanted Manuscript Begins -->
 
+<!-- ✨ Welcome Animations -->
+<img src="https://d1.awsstatic.com/mp-solutions-aim/AWS-Marketplace-Gen-AI-Infographic-1.607b858c664e0e0ae0779bea0b1f015cec166274.gif" width="100%" alt="GenAI GIF">
+
 <!-- 💠 Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-<img src="https://d1.awsstatic.com/mp-solutions-aim/AWS-Marketplace-Gen-AI-Infographic-1.607b858c664e0e0ae0779bea0b1f015cec166274.gif" width="100%" alt="GenAI GIF">
 
 <!-- ✨ Welcome Animations -->
 <!-- <img src="https://github.com/zx0r/zx0r/blob/main/assets/hello-world.gif" alt="Hello World Animation" /> -->
