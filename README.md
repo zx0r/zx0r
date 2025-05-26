@@ -31,6 +31,7 @@
 </h3>
 
 <!-- 🧠 Summary -->
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
 <pre>
 <span style="color:#00ffff;">⊙ Role:    [ Researcher ]
 <span style="color:#ff00ff;">⊙ Core:</span>    [ Shell, Python, SQL ]
@@ -45,7 +46,7 @@
 <!-- ✨ Gentoo Origin Note -->
 <div align="center" style="margin-top: 10px;">
   <span style="color:#a277ff; font-size:16px; font-weight:500;">
-    🧘 Started my journey in the binary mist of Gentoo Linux and never looked back.
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> Started my journey in the binary mist of Gentoo Linux and never looked back <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">**
   </span>
 </div>
 
