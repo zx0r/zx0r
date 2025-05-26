@@ -24,15 +24,7 @@
 </div>
 
 <!-- 💡 Enchanted Skills Block -->
-<h4 align="left">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
-  <span style="color:#A277FF; font-weight:bold;">⚙️ Technical Skills</span>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
-</h4>
-
-<!-- 🧠 Summary -->
 ###### ⚙️ Technical Skills
-<pre> 
 <span style="color:#00ffff;">⊙ Role:    [ Researcher ]
 <span style="color:#ff00ff;">⊙ Core:</span>    [ Shell, Python, SQL ]
 <span style="color:#a277ff;">⊙ OS:</span>      [ macOS, Linux, OpenWRT, Windows ]
@@ -41,7 +33,7 @@
 <span style="color:#ff77ff;">⊙ Output:</span>  [ Secure, Intelligent pipelines for real-world AI ]
 <span style="color:#ff77ff;">⊙ Mission:</span> [ Automate workflows, Embed LLMs in scalable systems ]
 <span style="color:#ffaa00;">⊙ Domains:</span> [ Prompt Engineering, LLM Integration, Data Scraping, CLI Tooling ]
-</pre>
+
 
 <!-- ✨ Gentoo Origin Note -->
 <div align="center" style="margin-top: 10px;">
