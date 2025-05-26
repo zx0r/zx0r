@@ -24,7 +24,7 @@
 </div>
 
 <!-- 💡 Enchanted Skills Block -->
-<h4 align="left">
+<h4 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
   <span style="color:#A277FF; font-weight:bold;">⚙️ Technical Skills</span>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
