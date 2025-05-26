@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/OpenWRT-blueviolet?style=for-the-badge&logo=openwrt&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Jupyter-f37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/SQL-00ccff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black" />
+ <!--  <img src="https://img.shields.io/badge/SQL-00ccff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black" /> -->
   <img src="https://img.shields.io/badge/Shell-00FFAA?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=black" />
 </div>
 
