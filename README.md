@@ -53,6 +53,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 ![GenAI GIF](https://d1.awsstatic.com/mp-solutions-aim/AWS-Marketplace-Gen-AI-Infographic-1.607b858c664e0e0ae0779bea0b1f015cec166274.gif)
+<img src="https://d1.awsstatic.com/mp-solutions-aim/AWS-Marketplace-Gen-AI-Infographic-1.607b858c664e0e0ae0779bea0b1f015cec166274.gif" width="600" alt="GenAI GIF">
 
 <a href="https://arjuncvinod.github.io">
   <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="Terminal Matrix Banner">
