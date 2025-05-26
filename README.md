@@ -24,15 +24,15 @@
 </div>
 
 <!-- 💡 Enchanted Skills Block -->
-<h3 align="center">
+<h4 align="left">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
   <span style="color:#A277FF; font-weight:bold;">⚙️ Technical Skills</span>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
-</h3>
+</h4>
 
 <!-- 🧠 Summary -->
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
-<pre>
+###### ⚙️ Technical Skills
+<pre> 
 <span style="color:#00ffff;">⊙ Role:    [ Researcher ]
 <span style="color:#ff00ff;">⊙ Core:</span>    [ Shell, Python, SQL ]
 <span style="color:#a277ff;">⊙ OS:</span>      [ macOS, Linux, OpenWRT, Windows ]
@@ -46,7 +46,7 @@
 <!-- ✨ Gentoo Origin Note -->
 <div align="center" style="margin-top: 10px;">
   <span style="color:#a277ff; font-size:16px; font-weight:500;">
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> Started my journey in the binary mist of Gentoo Linux and never looked back <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">**
+     🧘 Started my journey in the binary mist of Gentoo Linux and never looked back
   </span>
 </div>
 
