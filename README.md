@@ -36,6 +36,7 @@
 <!-- 💡 Enchanted Skills Block -->
 <img src="https://raw.githubusercontent.com/zx0r/zx0r/main/.github/assets/Screenshot-1.png" alt="Screenshot Stack" style="width:100%; max-width:100%;" />
 
+<!--
 <pre>
 <span style="color:#00ffff;">⊙ Role:    [ Researcher ]
 <span style="color:#ff00ff;">⊙ Core:</span>    [ Shell, Python, SQL ]
@@ -46,6 +47,7 @@
 <span style="color:#ff77ff;">⊙ Mission:</span> [ Automate workflows, Embed LLMs in scalable systems ]
 <span style="color:#ffaa00;">⊙ Domains:</span> [ Prompt Engineering, LLM Automation, Data Scraping, CLI Tooling ]
 </pre>
+-->
 
 <!-- ✨ Gentoo Origin Note -->
 <div align="center" style="margin-top: 10px;">
