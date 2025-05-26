@@ -56,13 +56,6 @@
 <!-- 💠 Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
-<!-- 🌀 Glyph Divider -->
-<p align="center">
-  <span style="color:#33ffaa;">════════</span>
-  <span style="color:#ffd700;"> ◉⊛◉ </span>
-  <span style="color:#33ffaa;">════════</span>
-</p>
-
 <!-- 🧠 Profile Glyphblock -->
 <p align="center">
   <samp>
@@ -73,6 +66,13 @@
     <font color="#ff5555">[💉] RUNTIME:</font> <font color="#ff79c6">EMERGE --ONESHOT --NEURAL REALITY</font><br>
     <font color="#8be9fd">[⚡] NETRUNNER STATUS:</font> <font color="#50fa7b">• ACTIVE</font>
   </samp>
+</p>
+
+<!-- 🌀 Glyph Divider -->
+<p align="center">
+  <span style="color:#33ffaa;">════════</span>
+  <span style="color:#ffd700;"> ◉⊛◉ </span>
+  <span style="color:#33ffaa;">════════</span>
 </p>
 
 <!-- 🧠 Gentoo Logic Wisdom -->
