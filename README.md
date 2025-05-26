@@ -43,8 +43,8 @@
 </pre>
 
 <!-- ✨ Gentoo Origin Note -->
-<div align="center" style="margin-top: 5px;">
-  <span style="color:#a277ff; font-size:18px; font-weight:500;">
+<div align="center" style="margin-top: 10px;">
+  <span style="color:#a277ff; font-size:16px; font-weight:500;">
     🧘 Started my journey in the binary mist of Gentoo Linux — and never looked back.
   </span>
 </div>
@@ -55,6 +55,9 @@
 <a href="https://arjuncvinod.github.io">
   <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="Terminal Matrix Banner">
 </a>
+
+<!-- 💠 Neon Line Separator -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 <!-- 📊 GitHub Stats -->
 <img src="https://github.com/zx0r/zx0r/blob/main/assets/stats.gif" alt="Divider" />
