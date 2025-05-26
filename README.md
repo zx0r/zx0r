@@ -24,28 +24,23 @@
 </div>
 
 <!-- 💡 Enchanted Skills Block -->
-###### ⚙️ Technical Skills
+<h4 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
+  <span style="color:#A277FF; font-weight:bold;">⚙️ Technical Skills</span>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
+</h4>
 
-- **Role**: [Researcher]  
-- **Core**: [Shell, Python, SQL]  
-- **OS**: [macOS, Linux, OpenWRT, Windows]  
-- **Spec**: [few-shot, CoT, RAG, agent prompting]  
-- **Tools**: [Pandas, Docker, Git, APIs, LangChain, Jupyter]  
-- **Output**: [Secure, Intelligent pipelines for real-world AI]  
-- **Mission**: [Automate workflows, Embed LLMs in scalable systems]  
-- **Domains**: [Prompt Engineering, LLM Integration, Data Scraping, CLI Tooling]
-
-###### ⚙️ Technical Skills
-<ul style="list-style-type: none; padding: 0; margin: 0;">
-  <li><span style="color:#00ffff;">⊙ Role:</span> [Researcher]</li>
-  <li><span style="color:#ff00ff;">⊙ Core:</span> [Shell, Python, SQL]</li>
-  <li><span style="color:#a277ff;">⊙ OS:</span> [macOS, Linux, OpenWRT, Windows]</li>
-  <li><span style="color:#ffcc00;">⊙ Spec:</span> [few-shot, CoT, RAG, agent prompting]</li>
-  <li><span style="color:#ff77ff;">⊙ Tools:</span> [Pandas, Docker, Git, APIs, LangChain, Jupyter]</li>
-  <li><span style="color:#ff77ff;">⊙ Output:</span> [Secure, Intelligent pipelines for real-world AI]</li>
-  <li><span style="color:#ff77ff;">⊙ Mission:</span> [Automate workflows, Embed LLMs in scalable systems]</li>
-  <li><span style="color:#ffaa00;">⊙ Domains:</span> [Prompt Engineering, LLM Integration, Data Scraping, CLI Tooling]</li>
-</ul>
+<!-- 🧠 Summary -->
+<pre>
+<span style="color:#00ffff;">⊙ Role:    [ Researcher ]
+<span style="color:#ffcc00;">⊙ Spec:</span>    [ few-shot, CoT, RAG, agent prompting ]
+<span style="color:#ff00ff;">⊙ Core:</span>    [ Shell, Python, SQL ]
+<span style="color:#a277ff;">⊙ OS:</span>      [ macOS, Linux, OpenWRT, Windows ]
+<span style="color:#ff77ff;">⊙ Tools:</span>   [ Pandas, Docker, Git, APIs, LangChain, Jupyter ]
+<span style="color:#ffaa00;">⊙ Domains:</span> [ Prompt Engineering, LLM Automation, Data Scraping, CLI Tooling ]
+<span style="color:#ff77ff;">⊙ Mission:</span> [ Automate workflows, Embed LLMs in scalable systems ]
+<span style="color:#ff77ff;">⊙ Output:</span>  [ Secure, Intelligent pipelines for real-world AI ]
+</pre>
 
 <!-- ✨ Gentoo Origin Note -->
 <div align="center" style="margin-top: 10px;">
