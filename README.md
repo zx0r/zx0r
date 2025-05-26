@@ -33,7 +33,9 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20">
 </h4>
 
-<!-- 💡 Enchanted Skills Block --> 
+<!-- 💡 Enchanted Skills Block -->
+<img src="https://raw.githubusercontent.com/zx0r/zx0r/main/.github/assets/Screenshot-stack.png" alt="Screenshot Stack" style="width:100%; max-width:100%;" />
+
 <pre>
 <span style="color:#00ffff;">⊙ Role:    [ Researcher ]
 <span style="color:#ff00ff;">⊙ Core:</span>    [ Shell, Python, SQL ]
