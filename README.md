@@ -24,10 +24,10 @@
 </div>
 
 <!-- 💡 Enchanted Skills Block -->
-###### ⚙️ Technical Skills
 
-<pre>
-<span style="color:#00ffff;">⊙ Role:    [ Researcher ]
+###### ⚙️ Technical Skills
+<pre style="margin-top: 0; padding-top: 0;">
+<span style="color:#00ffff;">⊙ Role:    [ Researcher ]</span>
 <span style="color:#ff00ff;">⊙ Core:</span>    [ Shell, Python, SQL ]
 <span style="color:#a277ff;">⊙ OS:</span>      [ macOS, Linux, OpenWRT, Windows ]
 <span style="color:#ffcc00;">⊙ Spec:</span>    [ few-shot, CoT, RAG, agent prompting ]
