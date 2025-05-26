@@ -5,19 +5,19 @@
 
 <!-- ✨ Welcome Animations -->
 <!-- <img src="https://github.com/zx0r/zx0r/blob/main/assets/hello-world.gif" alt="Hello World Animation" /> -->
-<img src="https://github.com/zx0r/zx0r/blob/main/assets/aboutme.gif" alt="About Me Divider" />
+<!-- <img src="https://github.com/zx0r/zx0r/blob/main/assets/aboutme.gif" alt="About Me Divider" /> -->
 
 <!-- 📡 Banner -->
 <!-- <img src="https://github.com/zx0r/zx0r/blob/main/assets/banner.png" alt="Cyber Banner" /> -->
 
 <!-- ⚙️ Tech Stack Badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/LLM-Prompting-blueviolet?style=for-the-badge&logo=openai&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/LLM-blueviolet?style=for-the-badge&logo=openai&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/AI_CORE-FF1493?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/LINUX-Unix-FF00FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/GENTOO-Stage3-00FF00?style=for-the-badge&logo=gentoo&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/OPENWRT-Firmware-FF00FF?style=for-the-badge&logo=openwrt&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/SHELL-Fish%20%26%20Bash-00FFAA?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FF00FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Gentoo-00FF00?style=for-the-badge&logo=gentoo&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/OpenWRT-FF00FF?style=for-the-badge&logo=openwrt&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Shell-00FFAA?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/SQL-00ccff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/PYTHON-Pandas-00FFFF?style=for-the-badge&logo=python&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Jupyter-Notebook-f37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=black" />
@@ -60,7 +60,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 <!-- 📊 GitHub Stats -->
-<img src="https://github.com/zx0r/zx0r/blob/main/assets/stats.gif" alt="Divider" />
+<!-- <img src="https://github.com/zx0r/zx0r/blob/main/assets/stats.gif" alt="Divider" /> -->
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zx0r&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
