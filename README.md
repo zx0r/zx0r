@@ -7,6 +7,9 @@
 <img src="https://github.com/zx0r/zx0r/blob/main/assets/hello-world.gif" alt="Hello World Animation" />
 <img src="https://github.com/zx0r/zx0r/blob/main/assets/aboutme.gif" alt="About Me Divider" />
 
+<!-- 📡 Banner -->
+<img src="https://github.com/zx0r/zx0r/blob/main/assets/banner.png" alt="Cyber Banner" />
+
 <!-- ⚙️ Tech Stack Badges -->
 <div align="center">
   <img src="https://img.shields.io/badge/LLM-Prompting-blueviolet?style=for-the-badge&logo=openai&logoColor=white&labelColor=black" />
@@ -83,9 +86,6 @@
 
 <!-- 💠 Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-
-<!-- 📡 Banner -->
-<img src="https://github.com/zx0r/zx0r/blob/main/assets/banner.png" alt="Cyber Banner" />
 
 <!-- 📊 GitHub Stats -->
 <img src="https://github.com/zx0r/zx0r/blob/main/assets/stats.gif" alt="Divider" />
