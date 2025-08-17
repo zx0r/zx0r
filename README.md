@@ -1,8 +1,5 @@
 <!-- 🧙‍♂️ Enchanted Manuscript Begins -->
 
-<!-- ✨ Welcome Animations -->
-<img src="https://d1.awsstatic.com/mp-solutions-aim/AWS-Marketplace-Gen-AI-Infographic-1.607b858c664e0e0ae0779bea0b1f015cec166274.gif" width="100%" alt="GenAI GIF">
-
 <!-- 💠 Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
@@ -46,13 +43,6 @@
 <span style="color:#ff77ff;">⊙ Mission:</span> [ Automate workflows, Embed LLMs in scalable systems ]
 <span style="color:#ffaa00;">⊙ Domains:</span> [ Prompt Engineering, LLM Automation, Data Scraping, CLI Tooling ]
 </pre>
-
-<!-- ✨ Gentoo Origin Note -->
-<div align="center" style="margin-top: 10px;">
-  <span style="color:#a277ff; font-size:16px; font-weight:500;">
-     🧘 Gentoo Linux wasn’t just a distro - it was my gateway to low-level mastery and high-level thinking
-  </span>
-</div>
 
 <!-- 💠 Neon Line Separator -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
