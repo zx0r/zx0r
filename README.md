@@ -34,7 +34,7 @@
 
 <pre>
 <span style="color:#00ffff;">⊙ Role:    [ dev ]
-<span style="color:#ff00ff;">⊙ Core:</span>    [ Shell, Python, SQL, YAML, XML, JSON, PHP, HTML, CSS, JS ]
+<span style="color:#ff00ff;">⊙ Core:</span>    [ Shell, Python, SQL ]
 <span style="color:#a277ff;">⊙ OS:</span>      [ macOS, Linux, OpenWRT, Windows ]
 <span style="color:#ffcc00;">⊙ Spec:</span>    [ few-shot, CoT, RAG, agent prompting ]
 <span style="color:#ff77ff;">⊙ Tools:</span>   [ Pandas, Docker, Git, APIs, LangChain, Jupyter ]
