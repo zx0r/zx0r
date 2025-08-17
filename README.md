@@ -11,6 +11,7 @@
 <!-- <img src="https://github.com/zx0r/zx0r/blob/main/assets/banner.png" alt="Cyber Banner" /> -->
 
 <!-- ⚙️ Tech Stack Badges -->
+<div align="center">
   <img src="https://img.shields.io/badge/LLM-blueviolet?style=for-the-badge&logo=openai&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Gentoo-00FF00?style=for-the-badge&logo=gentoo&logoColor=white&labelColor=black" />
   <img src="https://img.shields.io/badge/Linux-FF00FF?style=for-the-badge&logo=linux&logoColor=white&labelColor=black" />
