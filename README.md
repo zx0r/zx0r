@@ -1,3 +1,6 @@
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Infrastructure-18181B?style=flat-square&logo=kubernetes&logoColor=326CE5&color=18181B" />
   <img src="https://img.shields.io/badge/Automation-18181B?style=flat-square&logo=githubactions&logoColor=2088FF&color=18181B" />
@@ -6,8 +9,10 @@
   <img src="https://img.shields.io/badge/Open%20Source-18181B?style=flat-square&logo=github&logoColor=FFFFFF&color=18181B" />
 </p>
 
+---
+
 <p align="center">
   <a href="https://xxxx.dev">
-    <img src="https://img.shields.io/badge/%E2%86%92%20XXXX.DEV-8E75FF?style=flat" />
+    <img src="https://img.shields.io/badge/→ xxxx.dev-8E75FF?style=flat" />
   </a>
 </p>
