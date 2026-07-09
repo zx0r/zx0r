@@ -15,5 +15,5 @@ export const spec = {
   strategy: "Think → Build → Iterate",
 };
 
-export const entrypoint = "https://xxxx.dev";
+export const website = "https://xxxx.dev";
 ```
