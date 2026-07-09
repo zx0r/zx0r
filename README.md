@@ -17,6 +17,7 @@ export const spec = {
 ```
 
 <p align="center">
-  <a href="https://xxxx.dev"><strong>xxxx.dev →</strong></a>
+  <a href="https://xxxx.dev">
+    <img src="https://img.shields.io/badge/xxxx.dev-18181B?style=for-the-badge&logoColor=FFFFFF&color=18181B" />
+  </a>
 </p>
-
