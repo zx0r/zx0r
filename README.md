@@ -17,8 +17,6 @@ export const spec = {
 ```
 
 <p align="center">
-  <a href="https://xxxx.dev">
-    <strong>Continue →
-    </strong>
-  </a>
+  <a href="https://xxxx.dev"><strong>xxxx.dev →</strong></a>
 </p>
+
