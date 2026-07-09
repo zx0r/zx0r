@@ -9,7 +9,7 @@
 ---
 
 ```typescript
-export const spec = {
+const spec = {
   domain:   "Distributed Infrastructure",
   mission:  "Architect Intelligent Systems",
   strategy: "Think → Build → Iterate",
