@@ -6,16 +6,6 @@
   <img src="https://img.shields.io/badge/Open%20Source-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF&color=18181B" />
 </p>
 
----
-
-```typescript
-export const spec = {
-  domain:   "Distributed Infrastructure",
-  mission:  "Architect Intelligent Systems",
-  strategy: "Think → Build → Iterate",
-};
-```
-
 <p align="center">
   <a href="https://xxxx.dev">
     <img src="https://img.shields.io/badge/→ XXXX.DEV-18181B?style=for-the-badge&logoColor=FFFFFF&color=18181B" />
