@@ -14,6 +14,14 @@ export const spec = {
   mission:  "Architect Intelligent Systems",
   strategy: "Think → Build → Iterate",
 };
-
-export const website = "https://xxxx.dev";
 ```
+
+<p align="center">
+  <a href="https://xxxx.dev">
+    <strong>Continue →
+    </strong>
+  </a>
+</p>
+```
+
+https://xxxx.dev
