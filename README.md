@@ -9,9 +9,11 @@
 ---
 
 ```typescript
-const spec = {
+export const spec = {
   domain:   "Distributed Infrastructure",
   mission:  "Architect Intelligent Systems",
   strategy: "Think → Build → Iterate",
 };
+
+export const entrypoint = "https://xxxx.dev";
 ```
